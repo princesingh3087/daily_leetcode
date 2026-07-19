@@ -42,8 +42,9 @@ public:
     if(sametree(root,subroot)){
         return true;
     }
-    return subtrees(root->left,subroot)|| subtrees(root->right,subroot);
-    
+    bool left = subtrees(root->left,subroot);
+    bool right =  subtrees(root->right,subroot);
+    return left||right;
 
 
    }
