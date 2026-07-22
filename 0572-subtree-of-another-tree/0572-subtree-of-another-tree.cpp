@@ -44,14 +44,19 @@ public:
     }
     bool left = subtrees(root->left,subroot);
     bool right =  subtrees(root->right,subroot);
-    return left||right;
+    if(left==true || right==true){
+        return true;
+    }
+    else{
+        return false;
+    }
 
 
    }
 
     bool isSubtree(TreeNode* root, TreeNode* subroot) {
-        bool  ans =subtrees(root,subroot);
-        return ans;
+        return subtrees(root,subroot);
+        
         
     }
 };
