@@ -25,7 +25,7 @@ public:
                 nullfound = true;
             }
             else{
-                if(nullfound==true && node!=NULL){
+                if(nullfound){
                     return false;
 
                 }
