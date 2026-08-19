@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -164,6 +165,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesingh3087/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/princesingh3087/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -177,5 +179,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
