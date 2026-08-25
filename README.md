@@ -50,6 +50,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesingh3087/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/princesingh3087/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesingh3087/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/princesingh3087/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -184,4 +187,5 @@
 | [0015-3sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/princesingh3087/daily_leetcode/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
