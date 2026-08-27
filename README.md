@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/princesingh3087/daily_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -41,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/princesingh3087/daily_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
