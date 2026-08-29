@@ -6,6 +6,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/princesingh3087/daily_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/princesingh3087/daily_leetcode/tree/master/0022-generate-parentheses) |
+| [0680-valid-palindrome-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/princesingh3087/daily_leetcode/tree/master/0709-to-lower-case) |
 ## Dynamic Programming
 |  |
@@ -175,6 +176,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesingh3087/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/princesingh3087/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0680-valid-palindrome-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -190,4 +192,8 @@
 | [0016-3sum-closest](https://github.com/princesingh3087/daily_leetcode/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
