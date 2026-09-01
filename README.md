@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/princesingh3087/daily_leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesingh3087/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -181,6 +183,7 @@
 | [0016-3sum-closest](https://github.com/princesingh3087/daily_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesingh3087/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/princesingh3087/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
