@@ -56,6 +56,7 @@
 | [0016-3sum-closest](https://github.com/princesingh3087/daily_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0039-combination-sum) |
+| [0056-merge-intervals](https://github.com/princesingh3087/daily_leetcode/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0015-3sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/princesingh3087/daily_leetcode/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/princesingh3087/daily_leetcode/tree/master/0056-merge-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -221,4 +223,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/princesingh3087/daily_leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
