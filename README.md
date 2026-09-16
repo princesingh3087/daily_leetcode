@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/princesingh3087/daily_leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/princesingh3087/daily_leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -174,6 +175,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/princesingh3087/daily_leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -234,4 +236,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/princesingh3087/daily_leetcode/tree/master/0986-interval-list-intersections) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/princesingh3087/daily_leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
