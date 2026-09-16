@@ -68,6 +68,7 @@
 | [0219-contains-duplicate-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/princesingh3087/daily_leetcode/tree/master/0986-interval-list-intersections) |
+| [2104-sum-of-subarray-ranges](https://github.com/princesingh3087/daily_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -75,6 +76,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/princesingh3087/daily_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/princesingh3087/daily_leetcode/tree/master/0069-sqrtx) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/princesingh3087/daily_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
