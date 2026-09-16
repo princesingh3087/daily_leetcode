@@ -66,6 +66,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/princesingh3087/daily_leetcode/tree/master/0986-interval-list-intersections) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -193,6 +194,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/princesingh3087/daily_leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/princesingh3087/daily_leetcode/tree/master/0986-interval-list-intersections) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/princesingh3087/daily_leetcode/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/princesingh3087/daily_leetcode/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
