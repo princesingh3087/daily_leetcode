@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/princesingh3087/daily_leetcode/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/princesingh3087/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/princesingh3087/daily_leetcode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -62,6 +63,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/princesingh3087/daily_leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/princesingh3087/daily_leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0209-minimum-size-subarray-sum) |
