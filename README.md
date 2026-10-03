@@ -57,6 +57,7 @@
 | [0015-3sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/princesingh3087/daily_leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princesingh3087/daily_leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/princesingh3087/daily_leetcode/tree/master/0056-merge-intervals) |
@@ -182,6 +183,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princesingh3087/daily_leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/princesingh3087/daily_leetcode/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0098-validate-binary-search-tree) |
