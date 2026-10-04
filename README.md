@@ -62,6 +62,7 @@
 | [0039-combination-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/princesingh3087/daily_leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/princesingh3087/daily_leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/princesingh3087/daily_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -186,6 +187,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/princesingh3087/daily_leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/princesingh3087/daily_leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/princesingh3087/daily_leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/princesingh3087/daily_leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [2104-sum-of-subarray-ranges](https://github.com/princesingh3087/daily_leetcode/tree/master/2104-sum-of-subarray-ranges) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/princesingh3087/daily_leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
