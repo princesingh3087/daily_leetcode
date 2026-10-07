@@ -76,6 +76,7 @@
 | [0704-binary-search](https://github.com/princesingh3087/daily_leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/princesingh3087/daily_leetcode/tree/master/0986-interval-list-intersections) |
+| [1480-running-sum-of-1d-array](https://github.com/princesingh3087/daily_leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/princesingh3087/daily_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/princesingh3087/daily_leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/princesingh3087/daily_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/princesingh3087/daily_leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Quicksort
 |  |
 | ------- |
