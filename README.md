@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/princesingh3087/daily_leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/princesingh3087/daily_leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/princesingh3087/daily_leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/princesingh3087/daily_leetcode/tree/master/0509-fibonacci-number) |
