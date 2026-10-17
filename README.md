@@ -11,6 +11,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/princesingh3087/daily_leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/princesingh3087/daily_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/princesingh3087/daily_leetcode/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princesingh3087/daily_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/princesingh3087/daily_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/princesingh3087/daily_leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/princesingh3087/daily_leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Tree
 |  |
